@@ -15,7 +15,7 @@ The recommended way to build the API client libraries is through
 
 First, [install bazel](https://docs.bazel.build/versions/master/install.html).
 
-To build all libraries:
+To build all the libraries:
 
 ```
 bazel build //...
